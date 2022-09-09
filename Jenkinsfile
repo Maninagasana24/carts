@@ -4,7 +4,7 @@ pipeline{
 
 // uncomment the following lines by removing /* and */ to enable
     tools{
-       maven 'Maven 3.8.6' 
+       maven 'maven 3.8.6' 
     }
     
 
